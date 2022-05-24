@@ -1,0 +1,19 @@
+{
+  "_cts": {
+    "Post": {}
+  },
+  "slices": {
+    "Post": {
+      "default": {
+        "primary": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
